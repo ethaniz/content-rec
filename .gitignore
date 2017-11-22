@@ -1,0 +1,6 @@
+*.jar
+*.class
+user-label-streaming/out
+user-label-streaming/checkpoint
+user-label-streaming/target
+user-label-streaming/.idea
